@@ -1,7 +1,7 @@
 name: app7
 description: "PixelDash: 8-Bit Retro Endless Runner, Arcade Highscores & Speed Dash"
 publish_to: 'none'
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: ^3.5.0
